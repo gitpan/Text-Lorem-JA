@@ -23,5 +23,6 @@ t/01_sentence.t
 t/02_sentences.t
 t/03_word.t
 t/04_words.t
+xt/01_perlcritic.t
 META.yml
 MANIFEST

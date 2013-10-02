@@ -19,6 +19,7 @@ no_index:
   directory:
     - t
     - xt
+    - gen
     - inc
     - share
     - eg
@@ -27,11 +28,11 @@ no_index:
 provides:
   Text::Lorem::JA:
     file: lib/Text/Lorem/JA.pm
-    version: 0.02
+    version: 0.03
 requires:
   perl: 5.008005
 resources:
   bugtracker: https://github.com/dayflower/p5-Text-Lorem-JA/issues
   homepage: https://github.com/dayflower/p5-Text-Lorem-JA
   repository: git://github.com/dayflower/p5-Text-Lorem-JA.git
-version: 0.02
+version: 0.03
