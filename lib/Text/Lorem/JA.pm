@@ -8,10 +8,10 @@ use File::Basename qw( dirname );
 use File::Spec::Functions qw( catdir catfile canonpath );
 use Cwd qw( abs_path );
 
-our $VERSION = "0.03";
+our $VERSION = "0.04";
 
 use constant DICTIONARY_DIR =>
-    canonpath(catdir(dirname(__FILE__), '..', '..', '..', 'data'));
+    canonpath(catdir(dirname(__FILE__), '..', '..', '..', 'auto', 'share', 'dist', 'Text-Lorem-JA'));
 use constant DEFAULT_DICTIONARY =>
     catdir(DICTIONARY_DIR, 'dict.txt');
 

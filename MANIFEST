@@ -4,7 +4,6 @@ LICENSE
 META.json
 README.md
 cpanfile
-data/dict.txt
 gen/Aozora.pm
 gen/Makefile
 gen/README.md
@@ -18,6 +17,7 @@ gen/recipe/789.pl
 lib/Text/Lorem/JA.pm
 minil.toml
 script/lorem_ja
+share/dict.txt
 t/00_compile.t
 t/01_sentence.t
 t/02_sentences.t

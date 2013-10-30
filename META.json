@@ -4,7 +4,7 @@
       "ITO Nobuaki <dayflower@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.7.2",
+   "generated_by" : "Minilla/v0.8.1",
    "license" : [
       "perl_5"
    ],
@@ -55,7 +55,7 @@
    "provides" : {
       "Text::Lorem::JA" : {
          "file" : "lib/Text/Lorem/JA.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -69,5 +69,5 @@
          "web" : "https://github.com/dayflower/p5-Text-Lorem-JA"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
